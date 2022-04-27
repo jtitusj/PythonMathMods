@@ -1,0 +1,11 @@
+name: py4mathmods
+channels:
+    - conda-forge
+    - defaults
+    - anaconda
+dependencies:
+    - python=3.7
+    - pip
+    - jupyter
+    - jupyter_contrib_nbextensions
+    - autopep8

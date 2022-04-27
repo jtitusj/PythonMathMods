@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+networkx
+lmfit
+openpyxl
+scikit-learn
+xgboost
